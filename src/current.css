@@ -5,3 +5,8 @@
 .Current h1 {
   display: inline;
 }
+
+.tempSentence {
+  text-align: left;
+  margin-bottom: 0;
+}

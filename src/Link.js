@@ -9,9 +9,8 @@ export default function Link() {
         target="_blank"
         rel="noreferrer"
       >
-        Open source code
+        Open source code by Sarah Cox
       </a>
-      by Sarah Cox
     </p>
   );
 }

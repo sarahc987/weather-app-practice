@@ -3,6 +3,7 @@ import Search from "./Search";
 import Details from "./Details";
 import Current from "./Current";
 import Link from "./Link";
+import Time from "./Time";
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
           <Current />
         </div>
         <Details />
+        <Time />
       </div>
       <Link />
     </div>
