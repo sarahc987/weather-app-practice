@@ -1,0 +1,13 @@
+.Details .currentWeather {
+  font-size: 15px;
+}
+.tempDetails {
+  font-size: 12px;
+  margin-bottom: 20px;
+  padding-top: 8px;
+  color: grey;
+}
+
+.Details {
+  text-align: left;
+}
