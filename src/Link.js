@@ -5,7 +5,7 @@ export default function Link() {
   return (
     <p id="open-source">
       <a
-        href="https://github.com/sarahc987/weather-app"
+        href="https://github.com/sarahc987/react-weather-app"
         target="_blank"
         rel="noreferrer"
       >
